@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "UkJqxTmGNjmAvpLyvzuI7bfPFppxUxDtu0gxC+DMhmOZMP/i1Q9szwho8ob1kBVg/trVc8q8KMTgYVXMmWJtQQ==",
+  "success": true,
+  "projectFilePath": "D:\\Semester 2\\Pemrograman Berorientasi Objek(PBO)\\kepadatanpengunjung\\kepadatanpengunjung\\kepadatanpengunjung.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\armoj\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\armoj\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512",
+    "C:\\Users\\armoj\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
